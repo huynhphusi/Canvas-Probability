@@ -7,3 +7,6 @@ Minh họa xác suất của các mặt trên súc sắc bằng Canvas. Khi số
 
 ## Demo
 <img src="demo.png"><br/>
+
+## Tutorial
+https://huynhphusi.com/thuc-nghiem-xac-suat-doi-voi-suc-sac-bang-canvas-va-javascript/
